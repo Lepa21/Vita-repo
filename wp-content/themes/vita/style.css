@@ -1,0 +1,58 @@
+/*
+Theme Name: vitatestailua
+Theme URI: localhost/vitatestailua/
+Description: Testailua
+Author: Joona Leisti
+Author URI: http://insertyourownhomepage.com/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+*/
+
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap-responsive.css'); 
+
+p{
+	font-size: 16px;
+	font: Open-Sans;
+}
+
+h1{
+	color: #1177b0;
+	font-size: 30px;
+}
+
+h2{
+	color: #1177b0;
+	font-size: 22px;
+	line-height: 5px;
+}
+
+ul{
+	list-style: none;
+}
+
+.btn{
+	background-color: #ffffff;
+}
+
+
+
+
+
+
+a:link{
+	color: #000000;
+	background-color: #ffffff;
+	width: 20px;
+	height: 10px;
+}
+
+a:hover{
+	background-color: #999999;
+	color: #000000;
+
+}
+
